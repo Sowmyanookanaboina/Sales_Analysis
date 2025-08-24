@@ -32,6 +32,9 @@ This project demonstrates an end-to-end **data analytics workflow** starting wit
 
 ## 📂 Repository Structure
 ├── Sales Analysis.ipynb # Python EDA notebook
+
 ├── Sales_Analysis_dashboard.pdf # Dashboard screenshots
+
 ├── Sales Analysis.pbix#PowerBI File
+
 └── README.md # Project documentation
